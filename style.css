@@ -1,0 +1,153 @@
+.cointainer{
+    background-color:#00001a;
+    font-family: 'Concert One', cursive;
+    font-family: 'Dosis', sans-serif;
+}
+.logo{
+    width:100px;
+}
+.navbar ul li a{
+   color:#8600b3;
+   text-decoration: none;
+   font-size: 20px;
+
+}
+.navbar ul li{
+    display: inline-block;
+    margin: 10px;
+}
+.navbar ul li a:hover{
+    color:white;
+}
+.navbar ul{
+    margin-left:550px;
+    margin-top:-40px;
+}
+.signup{
+    background-color: #600080;
+    border: 0;
+    padding: 10px;
+    color:white;
+    border-radius:5px;
+}
+.demovideo{
+    background-color: #600080;
+    border: 0;
+    padding: 10px;
+    color:white;
+    border-radius:5px;
+}
+.loginanddemo{
+    margin-left: 1150px;
+    margin-top:-110px;
+}
+#search{
+    padding: 10px;
+    width:400px;
+    color:#600080;
+    background-color: aliceblue;
+    margin-top: 25px;
+    margin-left: 50px;
+}
+#searchbutton{
+    background: transparent;
+    border: 0;
+}
+#searchicon{
+    font-size: 30px;
+}
+.searchspan{
+    margin-left: 510px;
+    margin-top: -55px;
+}
+.menubar ul li a{
+    color:#8600b3;
+    text-decoration: none;
+    font-size: 20px;
+ 
+ }
+ .menubar ul li{
+     display: inline-block;
+     margin: 10px;
+ }
+ .menubar ul li a:hover{
+     color:white;
+ }
+ .menubar ul{
+     margin-top:-40px;
+ }
+ .menu{
+    background-color:#010121;
+    height:200px;
+    box-shadow:#010121;
+ }
+ .welcome{
+    font-size: 50px;
+    color:aliceblue;
+    margin-left: 30px;
+ }
+ .mathx{
+    color: #600080;
+    font-size: 50px;
+    font-weight: bold;
+    margin-left:275px;
+    margin-top: -82px;
+ }
+ .this{
+    color: white;
+    font-size:40px;
+    margin-left: 30px;
+ }
+ #cursor{
+    font-size:40px;
+    visibility: hidden;
+ }
+ #typewriter{
+    color: #600080;
+    font-size: 40px;
+    margin-left: 10px;
+    font-weight: bold;
+ }
+ .writing{
+    color: grey;
+    font-size:20px;
+    margin-left: 30px;
+ }
+ .imgsecond{
+    width:600px;
+ }
+ .image{
+    margin-left:700px;
+    margin-top:-400px;
+ }
+ footer img{
+    width:100px;
+    margin-left: 150px;
+    margin-top: 50px;
+ }
+ .seperator{
+    font-size:80px;
+    color: #600080;
+    margin-left: 300px;
+    margin-top: -110px;
+ }
+ .Copyright{
+  font-size: 30px;
+  margin-top: -70px;
+  letter-spacing: 2px;
+  color: #600080;
+ }
+ .icon{
+    margin-left:1150px;
+    font-size: 40px;
+    letter-spacing: 2px;
+    margin-top: -50px;
+ }
+ footer{
+    background-color: #010121;
+    position: sticky;
+    height:200px;
+ }
+
+ 
+
